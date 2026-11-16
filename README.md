@@ -32,3 +32,6 @@ The main goal of this assignment is to:
 ##
 
 Each mission is completed in sequence and committed saperately 
+
+## My Learning
+So far I have learned how the OS manages processes, how to navigate the Mac terminal, and how to convert binary and hexadecimal numbers in Python.
