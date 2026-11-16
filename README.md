@@ -1,34 +1,36 @@
-# Digital Detective
+# Digital Detective Assignment[cite: 3]
 
-This is a individual SnAI assignment for Diwali holiday. This is sequence of missions that helps to understand our computer system more.
+## Introduction
+This is the Digital Detective independent learning assignment[cite: 1]. The purpose of this project is to investigate how computers work, practice using the macOS Terminal, understand operating systems, and learn version control using Git and GitHub[cite: 1]. 
 
-## Goal
+## Mission Index[cite: 11]
+* [Mission 0 - Setup](mission-00-setup/README.md)
+* [Mission 1 - Know your computer](mission-01-computer-basics/README.md)
+* [Mission 2 - Terminal](mission-02-terminal/README.md)
+* [Mission 3 - Operating system](mission-03-operating-system/README.md)
+* [Mission 4 - How programs run](mission-04-programs/README.md)
+* [Mission 5 - Numbers and data](mission-05-numbers-data/README.md)
+* [Mission 6 - Git and GitHub](mission-06-git-github/README.md)
+* [Mission 7 - Networking](mission-07-networking/README.md)
+* [Mission 8 - Final report](mission-08-final-report/README.md)
 
-The main goal of this assignment is to:
+## Topics Explored[cite: 11]
+* Hardware, software, and IPOS models[cite: 11]
+* Command-line file management and flags/pipes[cite: 11]
+* Operating systems, running processes, and file permissions[cite: 11]
+* Compilers vs Interpreters[cite: 11]
+* Binary/Hexadecimal conversions and ASCII encoding[cite: 11]
+* Git workflows, branching, and Pull Requests[cite: 11]
+* LAN/WAN, DNS, and basic networking concepts[cite: 11]
 
-- Investigate how your computer works.
-- Practice basic Termainal operations.
-- Explore how the operating system manages files and programs.
-- Understand how numbers and text are represented.
-- Use GitHub to pulish your works.
+## How to run the Number Converter[cite: 11]
+To use the Python number converter built in Mission 5:
+1. Open your terminal.
+2. Navigate to the folder: `cd mission-05-numbers-data`
+3. Run the script: `python3 number_converter.py`
+4. Enter a decimal number when prompted to see its binary and hexadecimal values.
 
-## Index
+## My Learning Summary[cite: 11]
+Through this assignment, I learned how much work the operating system does in the background to manage memory and processes. I also got much more comfortable using the Terminal to navigate and create files without the mouse, and I learned how to use Git to safely track project versions and collaborate on GitHub using Branches and Pull Requests.
 
-| S.No. | Folder/File | Purpose |
-|---:|---|---|
-| 1. | [README.md](README.md) | Assignment introduction, mission index and completion summary. |
-| 2. | [mission-00-setup/README.md](mission-00-setup/README.md) | Setup details, tools and repository information. |
-| 3. | [mission-01-computer-basics/README.md](mission-01-computer-basics/README.md) | IPOS, hardware, software and everyday systems. |
-| 4. | [mission-02-terminal/README.md](mission-02-terminal/README.md) | Terminal activities and command learning. |
-| 5. | [mission-03-operating-system/README.md](mission-03-operating-system/README.md) | OS, processes, paths, storage and permissions. |
-| 6. | [mission-04-programs/README.md](mission-04-programs/README.md) | Python test and compiler/interpreter comparison. |
-| 7. | [mission-05-numbers-data/README.md](mission-05-numbers-data/README.md) | Conversions, encoding and converter explanation. |
-| 8. | [mission-05-numbers-data/number_converter.py](mission-05-numbers-data/number_converter.py) | Working Python number converter. |
-| 9. | [mission-06-git-github/README.md](mission-06-git-github/README.md) | Git workflow, branches and Pull Request learning. |
-| 10. | [mission-07-networking/README.md](mission-07-networking/README.md) | Network concepts and observations. |
-| 11. | [mission-08-final-report/README.md](mission-08-final-report/README.md) | Final review and submission checklist. |
-| 12. | [evidence/](evidence/) | Privacy-safe screenshots or selected output, grouped by mission if needed. |
-
-##
-
-Each mission is completed in sequence and committed saperately 
+*Note: Each mission in this repository was documented and committed separately as required by the assignment rules*[cite: 11].
